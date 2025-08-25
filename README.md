@@ -1,19 +1,19 @@
 Machine Learning Internship Project
-📌 Introduction
+# Introduction
 
 This project is developed as part of my CODEXINTERN's Internship Program for the month of August, 2025.
 The goal of this internship is to gain in-depth knowledge of Machine Learning concepts, apply them to real-world datasets, and build end-to-end ML models that demonstrate practical skills.
 
 The program combines structured training, guided assignments, and independent project work to ensure both learning and hands-on implementation.
 
-📅 Internship Timeline
+# Internship Timeline
 
  .Training on Python, Data Analysis, and Machine Learning basics
  . Advanced Machine Learning algorithms & project selection
  . Implementation of the internship project (model development, testing & evaluation)
  . Final project completion, documentation, and submission
 
-📂 Project Structure
+# Project Structure
 Internship_Project/
 │
 ├── Data/               # Dataset files used for training and testing
@@ -21,7 +21,7 @@ Internship_Project/
 ├── Models/             # Trained ML models (Pickle/Joblib format
 └── README.md           # Project overview
 
-⚙️ Tools & Technologies
+# Tools & Technologies
 
 Programming Language: Python 
 
@@ -73,7 +73,7 @@ Trained Machine Learning Model
 
 Project Documentation & Code Repository
 
-📧 Contact
+# Contact
 
 For any queries related to the project or internship, please reach out:
-📩 contactservices@codexintern
+contactservices@codexintern
